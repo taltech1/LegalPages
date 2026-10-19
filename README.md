@@ -4,9 +4,9 @@ Three static pages, public through GitHub Pages:
 
 | page | file | address |
 |---|---|---|
-| Info | `index.html` | https://taltech1.github.io/legal-pages/ |
-| Terms of Service | `terms.html` | https://taltech1.github.io/legal-pages/terms.html |
-| Privacy Policy | `privacy.html` | https://taltech1.github.io/legal-pages/privacy.html |
+| Info | `index.html` | https://taltech1.github.io/LegalPages/ |
+| Terms of Service | `terms.html` | https://taltech1.github.io/LegalPages/terms.html |
+| Privacy Policy | `privacy.html` | https://taltech1.github.io/LegalPages/privacy.html |
 
 `style.css` — one look for the three (light and dark, phone and desktop).
 

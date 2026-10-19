@@ -1,6 +1,6 @@
 # issues2Fix — LegalPages
 
-- [ ] **המאגר `legal-pages` ב-GitHub:** גיא יוצר אותו. ל-Claude אין `gh` ואין token, רק SSH.
+- [x] **המאגר `LegalPages` ב-GitHub:** גיא יצר אותו, https://github.com/taltech1/LegalPages.
 - [ ] **GitHub Pages:** להפעיל ב-Settings → Pages (`main`, `/`).
 - [ ] **התוכן:** למלא את כל הסימונים `[…]`: שם העסק, מייל, תאריך, תשלום, ארץ, ומה נאסף מהמשתתפים.
 - [ ] **אישור:** גיא קורא ומאשר את הטקסט המשפטי לפני שנותנים את הכתובות לפלטפורמה.

@@ -13,7 +13,15 @@
   - **מה למלא:** מסומן בצהוב `[…]`.
 - **`git init`:**
   - **ענף:** `main`.
-  - **Remote:** `git@github.com:taltech1/legal-pages.git`.
+  - **Remote:** `git@github.com:taltech1/LegalPages.git`.
   - **קומיט ראשון:** מקומי.
 - **MyCodes:** `.gitignore` מתעלם מ-`Shared/dev-logs/LegalPages/`.
 - **עוד לא:** push ו-GitHub Pages. המאגר עוד לא קיים ב-GitHub, וגיא צריך ליצור אותו (`issues2Fix.md`).
+
+## 19.10.2026 · push ל-taltech1/LegalPages
+
+- **המאגר:** גיא יצר את https://github.com/taltech1/LegalPages, ריק.
+- **Remote:** הוחלף ל-`git@github.com:taltech1/LegalPages.git`.
+- **הכתובות:** עודכנו בכל הקבצים ל-`https://taltech1.github.io/LegalPages/…`.
+- **push:** `main`.
+- **נשאר:** להפעיל GitHub Pages (`issues2Fix.md`). ל-Claude אין token להפעלה.
