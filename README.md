@@ -10,4 +10,4 @@ Three static pages, public through GitHub Pages:
 
 `style.css` — one look for the three (light and dark, phone and desktop).
 
-**To fill:** every yellow mark `[…]` (`<span class="fill">`), and `[COMPANY NAME]` in each `<title>`. How — `instructions.md`.
+**To fill:** every yellow mark `[…]` (`<span class="fill">`), and `[COMPANY NAME]` in each `<title>`.
