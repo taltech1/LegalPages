@@ -4,6 +4,7 @@ Three static pages, public through GitHub Pages (`index.html` — the opening pa
 
 | page | file | address |
 |---|---|---|
+| Website | `site.html` | https://taltech1.github.io/LegalPages/site.html |
 | Info | `info.html` | https://taltech1.github.io/LegalPages/info.html |
 | Terms of Service | `terms.html` | https://taltech1.github.io/LegalPages/terms.html |
 | Privacy Policy | `privacy.html` | https://taltech1.github.io/LegalPages/privacy.html |
